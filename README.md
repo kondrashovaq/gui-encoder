@@ -18,6 +18,7 @@ after this add dependency to pom.xml in current gui-encoder project
 ```
 
 ## How to use
+- Install encoder
 - Build jar file according to [INSTALL.md](https://github.com/kondrashovaq/gui-encoder/blob/master/INSTALL.md)
 - Run file `java -jar ./target/gui-encoder.jar`
 - For other purposes import project to IDE
