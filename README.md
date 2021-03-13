@@ -7,5 +7,5 @@ Program that encode and decode text with spiral matrix method
 
 ## How to use
 - Build jar file according to [INSTALL.md](https://github.com/kondrashovaq/encoder/blob/main/INSTALL.md)
-- Run file `java -jar ./target/encoder.jar`
+- Run file `java -jar ./target/gui-encoder.jar`
 - For other purposes import project to IDE
